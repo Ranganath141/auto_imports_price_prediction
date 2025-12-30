@@ -70,11 +70,11 @@ Predict automobile prices based on technical specifications and categorical attr
 ##  How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/auto-price-imports-prediction.git
+   git clone https://github.com/Ranganath141/auto-imports-price-prediction.git
 
 2. Navigate to the project directory
 
-   cd auto-price-imports-prediction
+   cd Auto-price-imports
 
 3. Install dependencies:
 
@@ -82,7 +82,7 @@ Predict automobile prices based on technical specifications and categorical attr
 
 4. Open and run the notebook
 
-   auto_price_prediction.ipynb
+   Auto_price_imports.ipynb
 
  
 Future Improvements :
