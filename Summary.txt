@@ -1,0 +1,7 @@
+## Auto Price Imports Prediction
+
+Built a regression-based machine learning model to predict automobile prices using technical
+and categorical features from an imports dataset. Performed data preprocessing, exploratory 
+data analysis, feature encoding, and model evaluation to identify key factors influencing 
+vehicle pricing. Compared multiple regression models and evaluated performance using error-based
+metrics to select the best-performing approach.
